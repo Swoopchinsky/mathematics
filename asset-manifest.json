@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mathematics/static/css/main.1d1ba4e9.css",
+    "main.css": "/mathematics/static/css/main.a0004748.css",
     "main.js": "/mathematics/static/js/main.123c0e2d.js",
     "static/js/453.8ee1132d.chunk.js": "/mathematics/static/js/453.8ee1132d.chunk.js",
     "static/media/logo.svg": "/mathematics/static/media/logo.7d976a15bf3cfa09d35ac4190aa744d6.svg",
     "static/media/Sokroom.svg": "/mathematics/static/media/Sokroom.37cfd6719395ecd1dce3eebf0ea5e127.svg",
     "index.html": "/mathematics/index.html",
-    "main.1d1ba4e9.css.map": "/mathematics/static/css/main.1d1ba4e9.css.map",
+    "main.a0004748.css.map": "/mathematics/static/css/main.a0004748.css.map",
     "main.123c0e2d.js.map": "/mathematics/static/js/main.123c0e2d.js.map",
     "453.8ee1132d.chunk.js.map": "/mathematics/static/js/453.8ee1132d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d1ba4e9.css",
+    "static/css/main.a0004748.css",
     "static/js/main.123c0e2d.js"
   ]
 }
