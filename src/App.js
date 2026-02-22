@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Sokroom from './Sokroom.svg'
 import './App.css';
 
 function App() {
@@ -6,6 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={Sokroom} className="App-su" alt="logo" />
+
         <p>
           Учи <code>Матешу</code>
         </p>
