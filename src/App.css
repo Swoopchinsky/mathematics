@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -10,13 +11,15 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 60s linear;
+    animation: App-logo-spin infinite 45s linear;
   }
 }
 
 .App-header {
   background-color: #e7efff;
   min-height: 100vh;
+  height: 2400px;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -48,11 +51,33 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-su {
-    animation: App-su-spin infinite 60s linear;
+    animation: App-su-spin infinite 40s linear;
   }
 }
 
 @keyframes App-su-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-sk {
+  height: 40vmin;
+  pointer-events: none;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-sk {
+    animation: App-sk-spin infinite 30s linear;
+  }
+}
+
+@keyframes App-sk-spin {
   from {
     transform: rotate(0deg);
   }
