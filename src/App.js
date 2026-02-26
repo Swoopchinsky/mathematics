@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import Sokroom from './Sokroom.svg'
 import Svarkvk from './Svarkvk.svg'
 import Arfprog from './Arfprog.svg'
+import soomasnap from './soomasnap.svg'
 
 import './App.css';
 
@@ -14,6 +15,7 @@ function App() {
         <img src={Svarkvk} className="App-sk" alt="sk" />
 
         <img src={Arfprog} className="App-ar" alt="ar" />
+        <img src={soomasnap} className="App-ar" alt="ar" />
 
         <p>
           Учи <code>Матешу</code>

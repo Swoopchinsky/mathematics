@@ -114,3 +114,27 @@
     transform: rotate(360deg);
   }
 }
+
+.App-soo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-top: 88px;
+  margin-bottom: 88px;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-soo {
+    animation: App-soo-spin infinite 120s linear;
+  }
+}
+
+@keyframes App-soo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
