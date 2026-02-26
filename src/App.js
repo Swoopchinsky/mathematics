@@ -15,7 +15,7 @@ function App() {
         <img src={Svarkvk} className="App-sk" alt="sk" />
 
         <img src={Arfprog} className="App-ar" alt="ar" />
-        <img src={soomasnap} className="App-ar" alt="ar" />
+        <img src={soomasnap} className="App-soo" alt="soo" />
 
         <p>
           Учи <code>Матешу</code>
