@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/mathematics/static/css/main.de1a7bc2.css",
-    "main.js": "/mathematics/static/js/main.eb2c67e7.js",
+    "main.css": "/mathematics/static/css/main.2faeaeee.css",
+    "main.js": "/mathematics/static/js/main.d6ef637b.js",
     "static/js/453.8ee1132d.chunk.js": "/mathematics/static/js/453.8ee1132d.chunk.js",
     "static/media/Arfprog.svg": "/mathematics/static/media/Arfprog.b468946b8221627c5af2969ecbfe901b.svg",
+    "static/media/soomasnap.svg": "/mathematics/static/media/soomasnap.1fb0b17f47725d34e697d2d96cf99fd8.svg",
     "static/media/Svarkvk.svg": "/mathematics/static/media/Svarkvk.6bfd619c6b7f0c3cccdbbe6fd1580757.svg",
     "static/media/logo.svg": "/mathematics/static/media/logo.7d976a15bf3cfa09d35ac4190aa744d6.svg",
     "static/media/Sokroom.svg": "/mathematics/static/media/Sokroom.37cfd6719395ecd1dce3eebf0ea5e127.svg",
     "index.html": "/mathematics/index.html",
-    "main.de1a7bc2.css.map": "/mathematics/static/css/main.de1a7bc2.css.map",
-    "main.eb2c67e7.js.map": "/mathematics/static/js/main.eb2c67e7.js.map",
+    "main.2faeaeee.css.map": "/mathematics/static/css/main.2faeaeee.css.map",
+    "main.d6ef637b.js.map": "/mathematics/static/js/main.d6ef637b.js.map",
     "453.8ee1132d.chunk.js.map": "/mathematics/static/js/453.8ee1132d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de1a7bc2.css",
-    "static/js/main.eb2c67e7.js"
+    "static/css/main.2faeaeee.css",
+    "static/js/main.d6ef637b.js"
   ]
 }
