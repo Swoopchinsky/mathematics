@@ -4,6 +4,8 @@ import Svarkvk from './Svarkvk.svg'
 import Arfprog from './Arfprog.svg'
 import soomasnap from './soomasnap.svg'
 
+import swarprogres from './swarprogres.svg'
+
 import './App.css';
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
 
         <img src={Arfprog} className="App-ar" alt="ar" />
         <img src={soomasnap} className="App-soo" alt="soo" />
+        <img src={swarprogres} className="App-sw" alt="sw" />
 
         <p>
           Учи <code>Матешу</code>

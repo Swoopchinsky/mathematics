@@ -13,7 +13,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 120s linear;
+    animation: App-logo-spin infinite 1220s linear;
   }
 }
 
@@ -55,7 +55,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-su {
-    animation: App-su-spin infinite 120s linear;
+    animation: App-su-spin infinite 1220s linear;
   }
 }
 
@@ -78,7 +78,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-sk {
-    animation: App-sk-spin infinite 120s linear;
+    animation: App-sk-spin infinite 1220s linear;
   }
 }
 
@@ -101,7 +101,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-ar {
-    animation: App-ar-spin infinite 120s linear;
+    animation: App-ar-spin infinite 1220s linear;
   }
 }
 
@@ -124,11 +124,34 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-soo {
-    animation: App-soo-spin infinite 120s linear;
+    animation: App-soo-spin infinite 1220s linear;
   }
 }
 
 @keyframes App-soo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-sw {
+  height: 40vmin;
+  pointer-events: none;
+  margin-top: 88px;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-sw {
+    animation: App-sw-spin infinite 1220s linear;
+  }
+}
+
+@keyframes App-sw-spin {
   from {
     transform: rotate(0deg);
   }
